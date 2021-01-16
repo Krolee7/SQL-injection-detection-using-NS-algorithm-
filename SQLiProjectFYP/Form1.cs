@@ -39,7 +39,7 @@ namespace SQLiProjectFYP
         private int a;
         private int b;
         
-
+        //dah berubah
         //public int s;
 
         public object Windows { get; private set; }
