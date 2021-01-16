@@ -1,0 +1,29 @@
+C:\Users\amirul azman\source\repos\SQLiProjectFYP\SQLiProjectFYP\bin\Debug\SQLiProjectFYP.exe.config
+C:\Users\amirul azman\source\repos\SQLiProjectFYP\SQLiProjectFYP\bin\Debug\SQLiProjectFYP.exe
+C:\Users\amirul azman\source\repos\SQLiProjectFYP\SQLiProjectFYP\bin\Debug\SQLiProjectFYP.pdb
+C:\Users\amirul azman\source\repos\SQLiProjectFYP\SQLiProjectFYP\obj\Debug\SQLiProjectFYP.Form1.resources
+C:\Users\amirul azman\source\repos\SQLiProjectFYP\SQLiProjectFYP\obj\Debug\SQLiProjectFYP.Properties.Resources.resources
+C:\Users\amirul azman\source\repos\SQLiProjectFYP\SQLiProjectFYP\obj\Debug\SQLiProjectFYP.csproj.GenerateResource.cache
+C:\Users\amirul azman\source\repos\SQLiProjectFYP\SQLiProjectFYP\obj\Debug\SQLiProjectFYP.exe
+C:\Users\amirul azman\source\repos\SQLiProjectFYP\SQLiProjectFYP\obj\Debug\SQLiProjectFYP.pdb
+C:\Users\amirul azman\source\repos\SQLiProjectFYP\SQLiProjectFYP\obj\Debug\SQLiProjectFYP.csprojAssemblyReference.cache
+C:\Users\TUF\Desktop\THESIS\SQLiProjectFYP\SQLiProjectFYP\SQLiProjectFYP\bin\Debug\SQLiProjectFYP.exe.config
+C:\Users\TUF\Desktop\THESIS\SQLiProjectFYP\SQLiProjectFYP\SQLiProjectFYP\bin\Debug\SQLiProjectFYP.exe
+C:\Users\TUF\Desktop\THESIS\SQLiProjectFYP\SQLiProjectFYP\SQLiProjectFYP\bin\Debug\SQLiProjectFYP.pdb
+C:\Users\TUF\Desktop\THESIS\SQLiProjectFYP\SQLiProjectFYP\SQLiProjectFYP\obj\Debug\SQLiProjectFYP.csprojAssemblyReference.cache
+C:\Users\TUF\Desktop\THESIS\SQLiProjectFYP\SQLiProjectFYP\SQLiProjectFYP\obj\Debug\SQLiProjectFYP.Form1.resources
+C:\Users\TUF\Desktop\THESIS\SQLiProjectFYP\SQLiProjectFYP\SQLiProjectFYP\obj\Debug\SQLiProjectFYP.Properties.Resources.resources
+C:\Users\TUF\Desktop\THESIS\SQLiProjectFYP\SQLiProjectFYP\SQLiProjectFYP\obj\Debug\SQLiProjectFYP.csproj.GenerateResource.cache
+C:\Users\TUF\Desktop\THESIS\SQLiProjectFYP\SQLiProjectFYP\SQLiProjectFYP\obj\Debug\SQLiProjectFYP.csproj.CoreCompileInputs.cache
+C:\Users\TUF\Desktop\THESIS\SQLiProjectFYP\SQLiProjectFYP\SQLiProjectFYP\obj\Debug\SQLiProjectFYP.exe
+C:\Users\TUF\Desktop\THESIS\SQLiProjectFYP\SQLiProjectFYP\SQLiProjectFYP\obj\Debug\SQLiProjectFYP.pdb
+C:\Users\TUF\Desktop\SQLiProjectFYP\SQLiProjectFYP\SQLiProjectFYP\bin\Debug\SQLiProjectFYP.exe.config
+C:\Users\TUF\Desktop\SQLiProjectFYP\SQLiProjectFYP\SQLiProjectFYP\bin\Debug\SQLiProjectFYP.exe
+C:\Users\TUF\Desktop\SQLiProjectFYP\SQLiProjectFYP\SQLiProjectFYP\bin\Debug\SQLiProjectFYP.pdb
+C:\Users\TUF\Desktop\SQLiProjectFYP\SQLiProjectFYP\SQLiProjectFYP\obj\Debug\SQLiProjectFYP.csprojAssemblyReference.cache
+C:\Users\TUF\Desktop\SQLiProjectFYP\SQLiProjectFYP\SQLiProjectFYP\obj\Debug\SQLiProjectFYP.Form1.resources
+C:\Users\TUF\Desktop\SQLiProjectFYP\SQLiProjectFYP\SQLiProjectFYP\obj\Debug\SQLiProjectFYP.Properties.Resources.resources
+C:\Users\TUF\Desktop\SQLiProjectFYP\SQLiProjectFYP\SQLiProjectFYP\obj\Debug\SQLiProjectFYP.csproj.GenerateResource.cache
+C:\Users\TUF\Desktop\SQLiProjectFYP\SQLiProjectFYP\SQLiProjectFYP\obj\Debug\SQLiProjectFYP.csproj.CoreCompileInputs.cache
+C:\Users\TUF\Desktop\SQLiProjectFYP\SQLiProjectFYP\SQLiProjectFYP\obj\Debug\SQLiProjectFYP.exe
+C:\Users\TUF\Desktop\SQLiProjectFYP\SQLiProjectFYP\SQLiProjectFYP\obj\Debug\SQLiProjectFYP.pdb

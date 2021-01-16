@@ -1,0 +1,4 @@
+order+by
+select
+all+
+exec

