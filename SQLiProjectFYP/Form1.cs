@@ -99,15 +99,15 @@ namespace SQLiProjectFYP
                 {
                     string text = sr.ReadToEnd();
 
-                    string[] lines = Regex.Split(text, "\n");
+                    string[] lines = Regex.Split(text, "\n"); // store array of textFile
                     double line = lines.Count();
 
                     for (int i = 0; i < line; i++)
                     {
-                        string str = lines[i].Trim().Replace("\r\n", "");
-                        if (File.Exists(learning))
+                        string str = lines[i].Trim().Replace("\r\n", ""); // trim to remove new line and return 
+                        if (File.Exists(learning)) // if pattern2.txt file is not empty
                         {
-                            using (StreamReader sr2 = new StreamReader(learning))
+                            using (StreamReader sr2 = new StreamReader(learning)) // read pattern2.txt
                             {
                                 string text2 = sr2.ReadToEnd();
 
@@ -279,6 +279,8 @@ namespace SQLiProjectFYP
 
             int[] badChar = new int[256];
 
+            
+            
             BadCharHeuristic(pat, m, ref badChar);
 
             int s = 0;
